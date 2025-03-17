@@ -12,6 +12,14 @@ To run:
 bun run index.ts
 ```
 
+## Start Docker
+
+Start docker container:
+
+```sh
+docker compose up
+```
+
 ## Postgres DB
 
 Connect to postgres on host
