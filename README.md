@@ -20,6 +20,8 @@ Start docker container:
 docker compose up
 ```
 
+Go to PgAdmin on [`localhost:5050`](http://localhost:5050)
+
 ## Postgres DB
 
 Connect to postgres on host
